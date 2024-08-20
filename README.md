@@ -1,4 +1,7 @@
-# bridge
-Lambda and API specifications for AWS
+# Bridge
 
-Development will begin shortly prior to [BOKBot](https://github.com/jehammer/BOKBot) migration to AWS once all relevant development on that is done.
+
+[![Stack](https://skillicons.dev/icons?i=rust,typescript,aws,dynamodb)](https://skillicons.dev)
+
+## Overview
+Using AWS CDK, Bridge serves to act as the go-between for BOKBot and the BOK Website.
